@@ -1,0 +1,9 @@
+﻿@using Newtonsoft.Json
+@model GCloud.FrontEndWS.Models.User
+
+@section scripts {
+    <script type="text/javascript">
+
+    var userContext = JSON.parse("@Html.Raw(HttpUtility.JavaScriptStringEncode(JsonConvert.SerializeObject(Model)))");
+    </script>
+}

@@ -1,0 +1,5 @@
+E:\glcoud\trunk\BackEnd\GCloud.Common.Contract\bin\Debug\GCloud.Common.Contract.dll
+E:\glcoud\trunk\BackEnd\GCloud.Common.Contract\bin\Debug\GCloud.Common.Contract.pdb
+E:\glcoud\trunk\BackEnd\GCloud.Common.Contract\obj\Debug\GCloud.Common.Contract.csprojResolveAssemblyReference.cache
+E:\glcoud\trunk\BackEnd\GCloud.Common.Contract\obj\Debug\GCloud.Common.Contract.dll
+E:\glcoud\trunk\BackEnd\GCloud.Common.Contract\obj\Debug\GCloud.Common.Contract.pdb
