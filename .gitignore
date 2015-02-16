@@ -1,6 +1,5 @@
 **/bin/Debug/
 **/bin/Release/
-lib/
 **/obj/Debug/
 **/obj/Release/
 **/bin/
@@ -10,3 +9,4 @@ lib/
 *.sln.docstates
 *.log
 .idea/
+packages/
