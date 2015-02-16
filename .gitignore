@@ -1,0 +1,12 @@
+**/bin/Debug/
+**/bin/Release/
+lib/
+**/obj/Debug/
+**/obj/Release/
+**/bin/
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.log
+.idea/

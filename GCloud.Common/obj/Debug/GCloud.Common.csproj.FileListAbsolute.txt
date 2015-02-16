@@ -1,7 +1,0 @@
-E:\glcoud\trunk\BackEnd\GCloud.Common\bin\Debug\GCloud.Common.dll
-E:\glcoud\trunk\BackEnd\GCloud.Common\bin\Debug\GCloud.Common.pdb
-E:\glcoud\trunk\BackEnd\GCloud.Common\bin\Debug\GCloud.Common.Contract.dll
-E:\glcoud\trunk\BackEnd\GCloud.Common\bin\Debug\GCloud.Common.Contract.pdb
-E:\glcoud\trunk\BackEnd\GCloud.Common\obj\Debug\GCloud.Common.csprojResolveAssemblyReference.cache
-E:\glcoud\trunk\BackEnd\GCloud.Common\obj\Debug\GCloud.Common.dll
-E:\glcoud\trunk\BackEnd\GCloud.Common\obj\Debug\GCloud.Common.pdb
